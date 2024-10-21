@@ -28,3 +28,11 @@ After running the tests, a test report will be generated in the `.allure-result`
 ```sh
 npm run allureReport
 ```
+
+Example test report:
+
+![Test Report](picture/allure-report.png)
+
+Example of displaying results on a website:
+
+![Website](picture/API-Challenges-Improve-your-API-Skills.png)
