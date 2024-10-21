@@ -31,7 +31,7 @@ npm run allureReport
 
 Example test report:
 
-![Test Report](picture/allure-report.png)
+![Test Report](picture/Allure-Report.png)
 
 Example of displaying results on a website:
 
